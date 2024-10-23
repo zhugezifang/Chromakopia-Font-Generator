@@ -6,4 +6,6 @@ Create vibrant, custom fonts effortlessly, blending colors seamlessly for stunni
 
 # Chromakopia Name Generator
 
+Chromakopia Name Generator creates unique, creative names for businesses, products, projects, and characters.
+
 [Chromakopia Name Generator]()
